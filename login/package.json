@@ -1,0 +1,11 @@
+{
+  "name": "passport-amazon-examples-login",
+  "version": "0.0.0",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "ejs": ">= 0.0.0",
+    "express": "2.x.x",
+    "passport": ">= 0.0.0",
+    "passport-amazon": "^1.0.0"
+  }
+}
